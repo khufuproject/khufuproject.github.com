@@ -56,7 +56,7 @@ Clue Components
 ===============
 
 The *clue_* series of components are generally useful Python and WSGI-based
-components that have **no dependency** on **Khufu** or **Pypramid**.
+components that have **no dependency** on **Khufu** or **Pyramid**.
 
   * clue_script: Easy utils for creating a script runner
 
