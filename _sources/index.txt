@@ -25,13 +25,13 @@ make a series of assumptions:
 Released Components
 ===================
 
-  * khufu_opinion 0.5.1: Set of paster templates for rapid Pyramid development
+  * khufu_opinion 0.2.2: Set of paster templates for rapid Pyramid development
 
     - Version Control: https://github.com/khufuproject/khufu_opinion
 
     - PyPi: http://pypi.python.org/pypi/khufu_opinion/
 
-  * khufu_sqlalchemy: SQLAlchemy bindings for Pyramid
+  * khufu_sqlalchemy 0.5.1: SQLAlchemy bindings for Pyramid
 
     - Docs: http://khufuproject.github.com/khufu_sqlalchemy/
 
@@ -39,13 +39,13 @@ Released Components
 
     - PyPi: http://pypi.python.org/pypi/khufu_sqlalchemy/
 
-  * khufu_script: Manage script support for Khufu/Pyramid apps
+  * khufu_script 0.6: Manage script support for Khufu/Pyramid apps
 
     - Version Control: https://github.com/khufuproject/khufu_script
 
     - PyPi: http://pypi.python.org/pypi/khufu_script/
 
-  * khufu_siteview: Easy template-to-view support
+  * khufu_siteview 0.9.1: Easy template-to-view support
 
     - Version Control: https://github.com/khufuproject/khufu_siteview
 
@@ -58,13 +58,13 @@ Clue Components
 The *clue_* series of components are generally useful Python and WSGI-based
 components that have **no dependency** on **Khufu** or **Pyramid**.
 
-  * clue_script: Easy utils for creating a script runner
+  * clue_script 0.2.4: Easy utils for creating a script runner
 
     - Version Control: https://github.com/khufuproject/clue_script
 
     - PyPi: http://pypi.python.org/pypi/clue_script/
 
-  * clue_sqlaloader: Data loader for SQLAlchemy
+  * clue_sqlaloader 0.1.1: Data loader for SQLAlchemy
 
     - Version Control: https://github.com/khufuproject/clue_sqlaloader
 
