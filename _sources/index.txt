@@ -69,13 +69,3 @@ components that have **no dependency** on **Khufu** or **Pyramid**.
     - Version Control: https://github.com/khufuproject/clue_sqlaloader
 
     - PyPi: http://pypi.python.org/pypi/clue_sqlaloader/
-
-.. toctree::
-   :maxdepth: 2
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`search`
-
