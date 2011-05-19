@@ -27,39 +27,48 @@ Released Components
 
   * khufu_opinion 0.5.1: Set of paster templates for rapid Pyramid development
 
-    - Version Control: 
+    - Version Control: https://github.com/khufuproject/khufu_opinion
 
     - PyPi: http://pypi.python.org/pypi/khufu_opinion/
 
   * khufu_sqlalchemy: SQLAlchemy bindings for Pyramid
 
-    - Version Control:
+    - Docs: http://khufuproject.github.com/khufu_sqlalchemy/
+
+    - Version Control: https://github.com/khufuproject/khufu_sqlalchemy
 
     - PyPi: http://pypi.python.org/pypi/khufu_sqlalchemy/
 
   * khufu_script: Manage script support for Khufu/Pyramid apps
 
-    - Version Control:
+    - Version Control: https://github.com/khufuproject/khufu_script
 
     - PyPi: http://pypi.python.org/pypi/khufu_script/
 
   * khufu_siteview: Easy template-to-view support
 
-    - Version Control:
+    - Version Control: https://github.com/khufuproject/khufu_siteview
 
     - PyPi: http://pypi.python.org/pypi/khufu_siteview/
 
 
-Related Components
-==================
+Clue Components
+===============
+
+The *clue_* series of components are generally useful Python and WSGI-based
+components that have **no dependency** on **Khufu** or **Pypramid**.
 
   * clue_script: Easy utils for creating a script runner
 
-    - Version Control:
+    - Version Control: https://github.com/khufuproject/clue_script
+
+    - PyPi: http://pypi.python.org/pypi/clue_script/
 
   * clue_sqlaloader: Data loader for SQLAlchemy
 
-    - Version Control:
+    - Version Control: https://github.com/khufuproject/clue_sqlaloader
+
+    - PyPi: http://pypi.python.org/pypi/clue_sqlaloader/
 
 .. toctree::
    :maxdepth: 2
